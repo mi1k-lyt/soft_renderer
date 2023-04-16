@@ -1,1 +1,2 @@
-# soft_renderer
+# C++ SoftRenderer
+

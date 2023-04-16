@@ -1,1 +1,11 @@
-
+/sr/x64
+/sr/packages
+/sr/.vs
+/packages
+/sr/sr/x64
+*.config
+*.ppm
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
